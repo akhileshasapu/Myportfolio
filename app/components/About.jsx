@@ -13,7 +13,7 @@ export default function About() {
 
 
         <a
-          href="/Resume/Akhileshasapu Resume.pdf"
+          href="/Resume/Akhileshresume.pdf"
           download
           className="inline-flex items-center mt-4   bg-cyan-500 hover:bg-cyan-600 text-white font-semibold py-2 px-8 rounded-lg shadow-md transition duration-300"
         >
