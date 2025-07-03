@@ -23,7 +23,7 @@ export default function Hero() {
       >
    
  
-Passionate <span className="text-cyan-400 font-medium">Full Stack Developer</span> blending <span className="text-cyan-400 font-medium">MERN</span>, <span className="text-cyan-400 font-medium">AI</span>, and <span className="text-cyan-400 font-medium">clean UI/UX</span> to craft <span className="text-cyan-400 font-medium">intelligent</span>, <span className="text-cyan-400 font-medium">fast</span>, and <span className="text-cyan-400 font-medium">scalable</span> web experiences.
+Passionate <span className="text-cyan-400 font-medium">Full Stack Developer</span> blending <span className="text-cyan-400 font-medium">Java</span>, <span className="text-cyan-400 font-medium">MERN</span>, and <span className="text-cyan-400 font-medium">clean UI/UX</span> to craft <span className="text-cyan-400 font-medium">intelligent</span>, <span className="text-cyan-400 font-medium">fast</span>, and <span className="text-cyan-400 font-medium">scalable</span> web experiences.
 
       </motion.p>
 
